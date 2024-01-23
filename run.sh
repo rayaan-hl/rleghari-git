@@ -3,8 +3,8 @@ set -e
 
 echo "Pushing your changes from local to origin"
 
-git add .
-git commit -m "Test commit from run.sh script"
-git push
+git add . > /dev/null 2>&1
+git commit -m "Test commit from run.sh script" > /dev/null 2>&1
+git push > /dev/null 2>&1
 
 echo "Push has been completed GANDU. This is a super simple BASH scrip"
