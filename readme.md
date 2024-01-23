@@ -5,3 +5,4 @@ new random text just to practice
 stage 
 push/pull
 merge new stuff git 
+editing file 
