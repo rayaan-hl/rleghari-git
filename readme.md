@@ -4,5 +4,9 @@ v8s are pretty cool aswell
 new random text just to practice 
 stage 
 push/pull
-merge new stuff git 
+<<<<<<< HEAD
+
 editing file 
+=======
+merge new stuff 
+>>>>>>> new_branch_2
